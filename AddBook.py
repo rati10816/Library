@@ -1,6 +1,6 @@
 import json
 
-jfile = open("library.json", "r")
+jfile = open("/library.json", "r")
 
 dict = json.load(jfile)
 
@@ -34,7 +34,7 @@ print(updated)
 
 jfile.close()
 
-jfile = open("D:\\Programming\\LibrProject\\library.json", "w")
+jfile = open("/library.json", "w")
 
 newdict = json.dumps(updated, indent=4)
 
