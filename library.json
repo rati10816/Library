@@ -1,0 +1,67 @@
+{
+    "books": [
+        {
+            "title": "teaching of lord chaitanya",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 348,
+            "description": "Lord Caitanya book for people to get detailed mind-set about teaching"
+        },
+        {
+            "title": "Bhagavad Gita As It Is",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 575,
+            "description": "Lord Sri Krsna teaches Arjuna how to be in godhead consciousness"
+        },
+        {
+            "title": "Krsna, the Supreme Personality of Godhead",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 832,
+            "description": "It is a summary and commentary on the Tenth Canto of the Srimad-Bhagavatam"
+        },
+        {
+            "title": "Krishna Upanishad",
+            "author": "Sri Krsna",
+            "publisher": "Atharvaveda",
+            "pages": 99,
+            "description": "Krishna Upanishad or Krishnopanishad is one of 108 Upanishads of Hinduism, written in Sanskrit language. It is a minor Upanishad, dedicated to the god Krishna, and belongs to the Vaishnava."
+        },
+        {
+            "title": "The Nectar of Instruction",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 86,
+            "description": "Eleven Lessons in the Ancient Science of Bhakti-yogaAcross five centuries and half the globe comes this compact guidebook of essential spiritual teachings."
+        },
+        {
+            "title": "The nectar of devotion",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 434,
+            "description": "We cannot be happy without satisfying our fundamental desire to love. Discover all the intricacies of spiritual love, bhakti, in this devotional classic.This is a summary study of Bhakti-rasamrita-sindhu"
+        },
+        {
+            "title": "Chaitanya Charitamrita",
+            "author": "Krishnadasa Kaviraja",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 472,
+            "description": "The Chaitanya Charitamrita, composed by Krishnadasa Kaviraja in c. 1557, is written in Bengali with a great number of Sanskrit verses in its devotional, poetic construction, including Shikshashtakam."
+        },
+        {
+            "title": "The Hare Krishna Book of Vegetarian Cooking",
+            "author": "Adiraja dasa",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 318,
+            "description": "The Hare Krishna Book of Vegetarian Cooking is more than just a collection of 120 Indian recipes: it is a taste of that special fusion of wisdom and beauty that is Ancient India."
+        },
+        {
+            "title": "My Dear Lord Krishna: A Book of Prayers",
+            "author": "Satsvarupa Dasa Goswami",
+            "publisher": "The Bhaktivedanta Book Trust",
+            "pages": 237,
+            "description": "No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system"
+        }
+    ]
+}
