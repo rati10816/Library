@@ -1,6 +1,9 @@
 import json
+import os 
 
-jfile = open("/library.json", "r")
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+jfile = open(dir_path+"\\library.json", "r")
 
 dict = json.load(jfile)
 
@@ -34,7 +37,7 @@ print(updated)
 
 jfile.close()
 
-jfile = open("D:/library.json", "w")
+jfile = open(dir_path+"\\library.json", "w")
 
 newdict = json.dumps(updated, indent=4)
 
