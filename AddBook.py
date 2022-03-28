@@ -1,9 +1,13 @@
 import json
 import os 
 
+<<<<<<< HEAD
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 jfile = open(dir_path+"\\library.json", "r")
+=======
+jfile = open("/library.json", "r")
+>>>>>>> 2df766c38e3adc583e3bd5aee71f78cbc5d9d638
 
 dict = json.load(jfile)
 
@@ -37,7 +41,11 @@ print(updated)
 
 jfile.close()
 
+<<<<<<< HEAD
 jfile = open(dir_path+"\\library.json", "w")
+=======
+jfile = open("/library.json", "w")
+>>>>>>> 2df766c38e3adc583e3bd5aee71f78cbc5d9d638
 
 newdict = json.dumps(updated, indent=4)
 
